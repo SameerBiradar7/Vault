@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# Encryption salt/key (DO NOT SHARE)
+vault.salt
+vault.key
+
+# OS junk
+.DS_Store
+
+# IDE junk
+.vscode/
+.idea/
